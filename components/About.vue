@@ -5,7 +5,7 @@
     <div class="max-w-4xl mx-auto sm:px-6 lg:px-8">
       <a class="flex justify-center pt-8 sm:pt-0" href="https://nuxtjs.org" target="_blank">
         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="50%" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
+	 width="40%" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
 <path fill="#080600" opacity="1.000000" stroke="none" 
 	d="
 M1.000000,245.000000 

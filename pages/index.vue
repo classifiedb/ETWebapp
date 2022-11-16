@@ -1,9 +1,17 @@
 <template>
-  <Tutorial/>
+<div></div>
 </template>
 
 <script>
+// export default {
+//   name: 'IndexPage'
+// }
 export default {
-  name: 'IndexPage'
-}
+    middleware: "home-to-dashboard-redirect",
+    data() {
+        return {};
+    },
+    created() {},
+    methods: {},
+};
 </script>
