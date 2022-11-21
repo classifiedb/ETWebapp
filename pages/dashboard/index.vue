@@ -1,12 +1,20 @@
 <template>
-  <b-container fluid>
+  <!-- <b-container fluid>
     <b-row>
       <b-col>
         <h1>Emperial Technologies</h1>
+        <nuxt-link>
         <br />
       </b-col>
     </b-row>
-  </b-container>
+  </b-container> -->
+  <main>
+    <h1>Home page</h1>
+    <NuxtLink to="/about">
+      About (internal link that belongs to the Nuxt App)
+    </NuxtLink>
+    <a href="https://nuxtjs.org">External Link to another page</a>
+  </main>
 </template>
 
 <script>
